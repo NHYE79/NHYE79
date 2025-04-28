@@ -6,7 +6,17 @@
 
 # I'm currently working at **scord**. I have a knack for understanding server responses faster than my friends' reactions. My journey in tech has led me to explore various domains, and I'm particularly interested in security and bugs.
 
-![Logo](https://github.com/user-attachments/assets/565d722c-b6ee-43e7-9db6-bb3df0b326ba)
+```bash
+  ██████   █████ █████   █████ █████ █████ ██████████ ██████████  ████████ 
+░░██████ ░░███ ░░███   ░░███ ░░███ ░░███ ░░███░░░░░█░███░░░░███ ███░░░░███
+ ░███░███ ░███  ░███    ░███  ░░███ ███   ░███  █ ░ ░░░    ███ ░███   ░███
+ ░███░░███░███  ░███████████   ░░█████    ░██████         ███  ░░█████████
+ ░███ ░░██████  ░███░░░░░███    ░░███     ░███░░█        ███    ░░░░░░░███
+ ░███  ░░█████  ░███    ░███     ░███     ░███ ░   █    ███     ███   ░███
+ █████  ░░█████ █████   █████    █████    ██████████   ███     ░░████████ 
+░░░░░    ░░░░░ ░░░░░   ░░░░░    ░░░░░    ░░░░░░░░░░   ░░░       ░░░░░░░░
+
+```
 
 ## Skills & Technologies
 
